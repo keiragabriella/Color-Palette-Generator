@@ -5,7 +5,7 @@ from sklearn.cluster import KMeans
 
 
 st.set_page_config(
-    page_title="Y2K Palette Generator",
+    page_title="Color Palette Generator",
     page_icon="💿",
     layout="centered"
 )
