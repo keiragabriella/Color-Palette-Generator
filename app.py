@@ -155,7 +155,7 @@ def extract_dominant_colors(image, k=5):
 st.markdown('<div class="main-container">', unsafe_allow_html=True)
 
 st.markdown(
-    '<div class="title">💿 Y2K Palette Generator</div>',
+    '<div class="title">💿 Color Palette Generator</div>',
     unsafe_allow_html=True
 )
 
@@ -163,7 +163,7 @@ st.markdown(
     """
     <div class="subtitle">
     Upload gambar favoritmu dan biarkan algoritma 
-    <b>K-Means Clustering</b> mengekstrak 5 warna dominan aesthetic ✨
+    <b>K-Means Clustering</b> mengekstrak 5 warna dominan ✨
     </div>
     """,
     unsafe_allow_html=True
