@@ -66,4 +66,4 @@ if uploaded_file is not None:
                 )
                 st.code(hex_color)
 
-st.caption("Tugas Artificial Intelligence - Pertemuan 11")
+st.caption("240086 - Gabriella Marie Keira W")
